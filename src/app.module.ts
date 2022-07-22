@@ -8,4 +8,4 @@ import { ProductController } from './product.controller';
   controllers: [AppController, ProductController],
   providers: [AppService],
 })
-export class AppModule {}
+export class AppModule { }
